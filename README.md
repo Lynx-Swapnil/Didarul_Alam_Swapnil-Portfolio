@@ -31,9 +31,10 @@ A responsive personal portfolio website built with HTML, CSS, and vanilla JavaSc
 ```text
 my-portfolio/
 ├── index.html
-├── portfolio.html
 ├── assets/
 │   ├── Didarul_Alam_Swapnil_CV.pdf
+│   ├── favicon.jpg
+│   ├── portfolio-Screenshot.png
 │   └── swapnil-professional-photo-no-bg.png
 └── README.md
 ```
@@ -88,6 +89,12 @@ You can also host this portfolio on:
 - Netlify
 - Vercel
 - Any static hosting provider
+
+## Screenshot
+
+![Portfolio Screenshot](assets/portfolio-Screenshot.png)
+
+Main portfolio landing page preview.
 
 ## Contact
 
