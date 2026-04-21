@@ -89,10 +89,6 @@ You can also host this portfolio on:
 - Vercel
 - Any static hosting provider
 
-## Screenshot
-
-If you want to add a screenshot later, place it in the repository and reference it here to give the README a more visual first impression.
-
 ## Contact
 
 - GitHub: [Lynx-Swapnil](https://github.com/Lynx-Swapnil)
